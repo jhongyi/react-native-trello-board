@@ -1,0 +1,12 @@
+export const GET_ORGANIZATIONS = 'GET_ORGANIZATIONS';
+export const GET_TEAMS = 'GET_TEAMS';
+export const GET_LISTS = 'GET_LISTS';
+export const GET_CARDS = 'GET_CARDS';
+export const ADD_LIST = 'ADD_LIST';
+export const ADD_CARD = 'ADD_CARD';
+export const SET_SELECTED_BOARD = 'SET_SELECTED_BOARD';
+export const SET_SELECTED_LIST = 'SET_SELECTED_LIST';
+export const SET_SELECTED_CARD = 'SET_SELECTED_CARD';
+export const SAVE_ADDRESS = 'SAVE_ADDRESS';
+export const SAVE_PORT = 'SAVE_PORT';
+export const SET_NOTIFICATION = 'SET_NOTIFICATION';

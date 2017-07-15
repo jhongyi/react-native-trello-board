@@ -1,0 +1,7 @@
+trello==0.9.1
+Trolly==0.2.2
+Flask==0.12
+Flask-RESTful==0.3.5
+click==6.6
+gevent==1.1.2
+greenlet==0.4.10
